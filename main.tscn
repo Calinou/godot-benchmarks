@@ -30,6 +30,9 @@ offset_top = 40.0
 offset_right = -18.0
 offset_bottom = -45.0
 script = null
+__meta__ = {
+"_edit_use_anchors_": false
+}
 
 [node name="SelectAll" type="Button" parent="."]
 anchor_left = 1.0
